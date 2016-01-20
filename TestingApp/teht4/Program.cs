@@ -25,7 +25,7 @@ namespace teht4
             {
                 Console.WriteLine("You are a senior");
             }
-            Console.WriteLine("Press ENTER to continue");
+
             Console.ReadLine();
         }
     }
